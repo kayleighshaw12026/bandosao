@@ -18,7 +18,7 @@
 
 <h2 dir="ltr"><strong>Web coi bản đồ sao có phù hợp cho người mới không</strong></h2>
 
-<p dir="ltr">Đối với người mới, web <strong><a class="in-cell-link" href="https://www.cake.me/resumes/kayleigh-shaw" target="_blank">giải mã bản đồ sao miễn phí</a></strong> là lựa chọn rất phù hợp vì giao diện thường đơn giản và dễ sử dụng. Bạn không cần phải biết cách vẽ lá số hay đọc ký hiệu phức tạp, mà chỉ cần nhập thông tin để xem kết quả.</p>
+<p dir="ltr">Đối với người mới, web <strong><a class="in-cell-link" href="https://www.cake.me/morgan-nixon" target="_blank">giải mã bản đồ sao miễn phí</a></strong> là lựa chọn rất phù hợp vì giao diện thường đơn giản và dễ sử dụng. Bạn không cần phải biết cách vẽ lá số hay đọc ký hiệu phức tạp, mà chỉ cần nhập thông tin để xem kết quả.</p>
 
 <p dir="ltr">Nhiều web xem bản đồ sao còn cung cấp phần giải thích chi tiết cho từng hành tinh, cung hoàng đạo hoặc cung nhà, giúp người dùng dễ hiểu hơn. Điều này giúp bạn từng bước làm quen với chiêm tinh học mà không bị quá tải.</p>
 
