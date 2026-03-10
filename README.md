@@ -1,4 +1,4 @@
-<h1 dir="ltr"><strong>Tìm hiểu về web bản đồ sao cùng Tracuubandosao.com&nbsp;</strong></h1>
+<h1 dir="ltr"><strong>Tìm hiểu về web bản đồ sao cùng Tracuubandosao&nbsp;</strong></h1>
 
 <p dir="ltr">Web bản đồ sao giúp bạn tra cứu thông tin chiêm tinh, hiểu bản thân và đọc bản đồ sao cá nhân một cách dễ dàng</p>
 
@@ -74,6 +74,6 @@
 
 <p dir="ltr">Chiêm tinh học vì thế không chỉ là kiến thức, mà còn là phương pháp tự quan sát và phát triển bản thân.</p>
 
-<p dir="ltr">Web bản đồ sao là công cụ tiện lợi giúp bạn tiếp cận chiêm tinh học một cách dễ dàng và gần gũi. Khi biết cách sử dụng web coi bản đồ sao và web xem bản đồ sao như <a href="http://tracuubandosao.com">Tracuubandosao.com</a> đúng cách, bạn sẽ có thêm góc nhìn để hiểu bản thân, cảm xúc và hành trình sống của mình một cách nhẹ nhàng và chủ động hơn.&nbsp;</p>
+<p dir="ltr">Web bản đồ sao là công cụ tiện lợi giúp bạn tiếp cận chiêm tinh học một cách dễ dàng và gần gũi. Khi biết cách sử dụng web coi bản đồ sao và web xem bản đồ sao như Tracuubandosao.com đúng cách, bạn sẽ có thêm góc nhìn để hiểu bản thân, cảm xúc và hành trình sống của mình một cách nhẹ nhàng và chủ động hơn.&nbsp;</p>
 
 <p dir="ltr">&nbsp;</p>
