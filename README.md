@@ -1,8 +1,4 @@
-<h1 dir="ltr"><strong>Tìm hiểu về web bản đồ sao cùng Tracuubandosao&nbsp;</strong></h1>
-
-<p dir="ltr">Web bản đồ sao giúp bạn tra cứu thông tin chiêm tinh, hiểu bản thân và đọc bản đồ sao cá nhân một cách dễ dàng</p>
-
-<h2 dir="ltr"><strong>Web bản đồ sao là gì? Cách coi và đọc bản đồ sao online dễ hiểu</strong></h2>
+<h1 dir="ltr"><strong>Web bản đồ sao là gì? Tracuubandosao.com hướng dẫn cách coi và đọc bản đồ sao online dễ hiểu</strong></h1>
 
 <p dir="ltr">Web&nbsp;<strong><a class="in-cell-link" href="https://tracuubandosao.com/" target="_blank">Tra Cứu Bản Đồ Sao</a></strong> là công cụ trực tuyến giúp bạn tiếp cận chiêm tinh học một cách nhanh chóng và thuận tiện. Chỉ cần nhập thông tin sinh cơ bản, bạn đã có thể xem được bản đồ sao cá nhân, từ đó hiểu rõ hơn về tính cách, cảm xúc và xu hướng phát triển của mình. Với sự phát triển của công nghệ, việc coi bản đồ sao không còn quá phức tạp như trước, mà trở nên dễ dàng với bất kỳ ai quan tâm.</p>
 
